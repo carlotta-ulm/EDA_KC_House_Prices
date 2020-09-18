@@ -1,7 +1,7 @@
 # EDA_KC_House_Prices
 First Project, Prediction of house prices of Kings County
 
-This repository contains two notebooks. The first one contains the Datacleaning and EDA and the second one the model.
+This repository contains two notebooks. The first one contains the Datacleaning and EDA[https://github.com/carlotta-ulm/EDA_KC_House_Prices/blob/master/EDA_KC.ipynb] and the second one the model[https://github.com/carlotta-ulm/EDA_KC_House_Prices/blob/master/Model_KC.ipynb].
 
 # Column Names and descriptions for Kings County Data Set
 * **id** - unique identified for a house
